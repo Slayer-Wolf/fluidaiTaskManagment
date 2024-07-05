@@ -170,7 +170,7 @@ Start the server
 
 ## Postman_collection
 
-###### The file given below has all details how to use the api tested through Postman
+###### The file given below has all details how to use the api tested through Postman and will show the expected response and all necessary details  
 
 [Postman Collection file Link](https://github.com/Slayer-Wolf/fluidaiTaskManagment/blob/master/Task%20Managment.postman_collection.json)
 
